@@ -1,0 +1,6 @@
+Nurse 
+
+Detyrat:
+Mund te shtoje dhe te heq pacienta nga tabela pacientet
+Mund tja dergoj pacientin te mjeku per kontroll
+Gjithashtu mund te shtoj te dhenat tek kolona e terapise tek pacientat
